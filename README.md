@@ -8,7 +8,7 @@ phpMyAdmin versión: 5.2.0
 Versión del cliente de base de datos: libmysql - mysqlnd 8.2.0
 
 BD: ofertas
-Ofertas v 2.3.1
+Ofertas v 1.0.0
 
 ##############
 #    nota    #
